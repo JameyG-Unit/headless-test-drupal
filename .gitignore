@@ -1,0 +1,9 @@
+_data
+_site
+.bundle
+.DS_Store
+.sass-cache
+.jekyll-metadata
+/.idea/workspace.xml
+/.idea/tasks.xml
+/vendor
